@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//SBITI-KHALID.github.io/Simple_project_redux/static/css/main.c26946a4.css",
+    "main.js": "/http//SBITI-KHALID.github.io/Simple_project_redux/static/js/main.6f088700.js",
+    "static/js/787.c1d29158.chunk.js": "/http//SBITI-KHALID.github.io/Simple_project_redux/static/js/787.c1d29158.chunk.js",
+    "index.html": "/http//SBITI-KHALID.github.io/Simple_project_redux/index.html",
+    "main.c26946a4.css.map": "/http//SBITI-KHALID.github.io/Simple_project_redux/static/css/main.c26946a4.css.map",
+    "main.6f088700.js.map": "/http//SBITI-KHALID.github.io/Simple_project_redux/static/js/main.6f088700.js.map",
+    "787.c1d29158.chunk.js.map": "/http//SBITI-KHALID.github.io/Simple_project_redux/static/js/787.c1d29158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26946a4.css",
+    "static/js/main.6f088700.js"
+  ]
+}
